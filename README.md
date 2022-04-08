@@ -18,3 +18,17 @@ The hardest technical challenge I have faced was one related to the electronic b
 
 ## Tell us 3 questions you would ask in an interview
 
+### Why do you want to join our company?
+
+I think your company would be a huge step for my professional career, and it would bring me a huge stability in my personal and family life; Moreover it would be really great to be part of an international team that is something that I have dreamed my whole life it would be awesome to have the chance of working with people from all over the world.
+Besides, I truly believe that being part of a world-class development team makes all of their team members become better developers due to the interaction with the different cultures and different levels of expertise. And all of that is what makes me want to be part of your company.
+
+
+### In which company would you love to join? And why?
+
+I have no one specific name of a company in my mind; what I think about that is the fact that the company should have really exciting projects that make me feel challenged my whole time and learn new stuff or improve the knowledge that I already have. An international work team would be great, because your team can be a helping hand for your professional future and improving as a developer. And I would love to have the chance to work from home because I think the time we save commuting is really valuable; at least for me that I have a big family, so I have more time for spending with my loved ones.
+
+
+### What field of development do you like most, or do you think it is the most exciting?
+
+I have always worked as a web developer, I have worked as backend/frontend or full-stack; and I really enjoy doing my job, but I think in the future I would love to have the chance to prove myself as an ML developer or maybe an AI developer. I truly believe that is the future and I would love to be part of that future, and it doesn’t matter how hard it can be, I would love to show the world how I am able to do it.
