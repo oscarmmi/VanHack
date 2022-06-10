@@ -10,7 +10,7 @@
 ## 1. Tell us about yourself
 
 My name is Oscar Javier Muñoz Marciales, I am a web developer; I have worked as web developer about 5 years; I have worked in five different companies, and currently I am working in a full time job for a Colombian company called Marval S.A., and the other one for a Spanish called Unifema S.L. In my full time job I work making the integrations between different data sources and in my part-time job I work as a web developer for creating/supporting different online stores. 
-I consider myself a great web developer and I try to improve as much as I can as a developer every day. 
+I consider myself a great web developer and I try to improve as much as I can everyday. 
 
 ## 2. Describe a technical challenge you have faced
 
@@ -32,4 +32,4 @@ I have no one specific name of a company in my mind; what I think about that is 
 
 * ### What field of development do you like most, or do you think it is the most exciting?
 
-I have always worked as a web developer, I have worked as backend/frontend or full-stack; and I really enjoy doing my job, but I think in the future I would love to have the chance to prove myself as an ML developer or maybe an AI developer. I truly believe that is the future and I would love to be part of that future, and it doesn’t matter how hard it can be, I would love to show the world how I am able to do it.
+I have always worked as a web developer, I have worked as backend/frontend or full-stack; and I really enjoy doing my job, but I think in the future I would love to have the chance to prove myself as an ML developer or maybe an AI developer. I truly believe that it is the future and I would love to be part of that future, and it doesn’t matter how hard it can be, I would love to show the world how I am able to do it.
